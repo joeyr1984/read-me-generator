@@ -53,4 +53,7 @@ npm test
 
 If you have any questions about the repo, open an issue or contact [joeyr1984](https://github.com/joeyr1984/) directly at joeyr1984@gmail.com
 
+## GIF of working app
+
+![README](./README-GIF.gif)
 
