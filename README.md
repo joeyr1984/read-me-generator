@@ -1,10 +1,11 @@
 
-# project name
+# Weather Dashboard
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/)
 
 ## Description
 
-project description
+a genaric weather dashboard that gives 5 day forcast
 
 ## Table of Contents
 
@@ -25,20 +26,20 @@ project description
 To install necessary dependencies, run the following command:
 
 ```
-npm i
+npm install run
 ```
 
 ## Usage
 
-here what you need to know ...
+be careful
 
 ## License
 
-This project is licensed under the APACHE 2.0 license.
+This project is licensed under the GPL 3.0 license.
 
 ## Contributing
 
-here what you need to know ...
+dont eff with my master branch
 
 ## Test
 
