@@ -1,11 +1,11 @@
 
-# Weather Dashboard
+# READ-ME GENERATOR
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/joeyr1984/read-me-generator)
 
 ## Description
 
-a genaric weather dashboard that gives 5 day forcast
+This exercise we used node to prompt the user with a series of questions. Once the questionnaire has been completed by the user the app will write a “read me” file with all of their answers. 
 
 ## Table of Contents
 
@@ -26,20 +26,20 @@ a genaric weather dashboard that gives 5 day forcast
 To install necessary dependencies, run the following command:
 
 ```
-npm install run
+npm i
 ```
 
 ## Usage
 
-be careful
+NA
 
 ## License
 
-This project is licensed under the GPL 3.0 license.
+This project is licensed under the MIT license.
 
 ## Contributing
 
-dont eff with my master branch
+NA
 
 ## Test
 
